@@ -1,1 +1,1 @@
-# SOLO-reconcilia-o-banc-ria
+# SOLO-reconciliaco-bancaria
