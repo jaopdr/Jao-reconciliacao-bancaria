@@ -4,7 +4,7 @@
 Este projeto implementa uma automação para reconciliação bancária utilizando Python com Tkinter para a interface gráfica e Pandas para manipulação de dados.
 
 ## Que Problema Resolve
-Facilita o processo de reconciliação entre extratos bancários e registros contábeis, identificando transações em comum e discrepâncias entre os conjuntos de dados.
+Este programa tem o objetivo de agilizar processos repetitivos. Reconciliando os dados de duas planilhas, que seria a comparação entre as mesmas, verificando onde os valores aparecem em ambas as planilhas, e onde aparecem isoladamente em cada planilha, com o objetivo de redução de erros, junto com uma geração de relatórios automatizadas e eficientes.
 
 ## Funcionalidades
 - Carregar arquivos de extrato bancário e registros contábeis.
